@@ -9,3 +9,6 @@ The objective is to create an attractive and functional landing page that reflec
 - Interactive Elements: Implement interactive elements such as buttons, forms, or slideshows to enhance user experience.
 - Stylish Layout: Apply CSS styles creatively to enhance the overall aesthetic appeal of the page.
 - Accessibility: Prioritize accessibility considerations by using semantic HTML and ensuring compatibility with assistive technologies.
+
+
+<img width="1438" alt="Lucky Shrub" src="https://github.com/VishnuP02/Lucky-Shrub/assets/135986853/02a90bea-df1f-4ade-b497-c133d44b0541">
